@@ -224,9 +224,9 @@ I am currently focused on strengthening my expertise in:
 
 # 📫 Connect with Me
 
-📧 **Email:** your-email@example.com
+📧 **Email:** ajay88153025@gmail.com
 
-💼 **LinkedIn:** *(Add your LinkedIn profile URL)*
+💼 **LinkedIn:** https://www.linkedin.com/in/ajayparmar2510
 
 🐙 **GitHub:** https://github.com/ajayparmar2510
 
