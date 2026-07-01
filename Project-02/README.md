@@ -258,7 +258,7 @@ The `outputs/` folder contains:
 🎓 Aspiring Data Scientist | Machine Learning Enthusiast
 
 - GitHub: https://github.com/ajayparmar2510
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: https://www.linkedin.com/in/ajayparmar2510
 
 ---
 
